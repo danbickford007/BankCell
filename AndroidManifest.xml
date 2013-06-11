@@ -26,6 +26,10 @@
             android:name="com.example.bankcell.OverviewActivity"
             android:label="@string/title_activity_overview" >
         </activity>
+        <activity
+            android:name="com.example.bankcell.CellStatusActivity"
+            android:label="@string/title_activity_cell_status" >
+        </activity>
     </application>
 
 </manifest>
